@@ -2,7 +2,6 @@
 
 <h2 align = "center">💻 Tech Stack 💻</h2>
 <br>
-<br>
 <p align = "center">
   <a href = https://github.com/play3step>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
