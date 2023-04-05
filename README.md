@@ -1,6 +1,6 @@
 
 
-<h2 align = "center">💻 Tech Stack 💻</h2>
+<h3 align = "center">💻 Tech Stack 💻</h3>
 <br>
 <p align = "center">
   <a href = https://github.com/play3step>
