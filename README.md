@@ -1,68 +1,61 @@
-# 👋 안녕하세요, 꿈을 꾸는 개발자 박철현입니다.
+<div align="center">
+  <h3> 끊임없이 배우고 도전하며, 사용자 중심의 UI와 효율적인 협업을 지향합니다.</h3>
+</div>
 
-끊임없이 배우고 도전하며, 사용자 중심의 UI와 효율적인 협업을 중요하게 생각합니다.  
-실시간 기능, 3D 프레젠테이션, 일정 관리, 게임 관리 플랫폼 등 다양한 서비스를 직접 기획하고 개발하며 성장 중입니다.
+<br/>
 
----
+<div align="center">
+  
+  <a href="mailto:play3step@naver.com"><img src="https://img.shields.io/badge/Email-play3step@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+  <a href="https://velog.io/@play3step/posts"><img src="https://img.shields.io/badge/Blog-Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="https://github.com/play3step"><img src="https://img.shields.io/badge/GitHub-play3step-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-## 📎 경험
+</div>
 
-### 👨‍💻 프론트엔드 인턴 @ Helper Robotics  
-`2023.01 ~ 2024.02`
+<br/>
 
-- 기존 코드 리팩토링 및 유지보수 작업 수행
-- SCSS 전처리 자동화 환경 구축  
-- Server-Sent Events(SSE)를 활용한 실시간 알림 기능 구현  
-- 주요 페이지 UI 리뉴얼 참여
+## 🛠 Tech Stack
 
-### 🚀 UMC 5기 (University MakeUs Challenge)  
-`2023.09 ~ 2024.01`
+### Frontend
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Zustand-orange?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
 
-### 🎓 프로그래머스 데브코스 프론트엔드 과정 (학습 중)  
-`2025.05 ~ 현재`
+### Tools & Collaboration
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<br/>
 
-### 🧾 정보처리기사 자격증  
-`2025년 제1회 정기 기사`
+## 📎 Experience
 
----
+| 기간 | 활동 및 자격 | 역할/내용 |
+|:---:|:---|:---|
+| `2025.05 ~ 2025.10` | **프로그래머스 데브코스** | 프론트엔드 과정 |
+| `2025.06` | **정보처리기사** | 2025년 제1회 정기 기사 |
+| `2023.01 ~ 2024.02` | **Helper Robotics** | 프론트엔드 인턴 |
+| `2023.09 ~ 2024.01` | **UMC 5기** | University MakeUs Challenge |
 
-## 🛠 기술 스택
+<br/>
 
-### Front-End  
-`React`, `TypeScript`, `JavaScript`, `HTML/CSS`, `SCSS`  
-`Redux`, `Recoil`, `Zustand`, `Three.js`, `WebSocket`, `TailwindCSS`
+## 💼 Projects
 
-### Collaboration & Tools  
-`Git`, `GitHub`, `Figma`, `Jira`, `Confluence`, `VSCode`
+### 📌 [MapleLink](https://maplelink.co.kr)
+> **메이플스토리 길드 관리 및 탐색 통합 플랫폼**
+- **Link**: [서비스 접속](https://maplelink.co.kr)
 
----
+### 📌 [Deemo](https://www.deemo.dev/)
+> **macOS 컨셉의 인터랙티브 개인 포트폴리오**
+- **Link**: [서비스 접속](https://www.deemo.dev/)
 
-## 💼 주요 프로젝트
+### 📌 [ZoopZoop](https://youtu.be/a1mq1rUVoYg)
+> **수집부터 공유까지, 갱각을 이어주는 플랫폼**
+- **Link**: [데모 영상](https://youtu.be/8ofrx60MaL4)
 
-### 📌 PlanDing  
-> **개인과 그룹 일정을 통합 관리하는 실시간 일정 플랫폼**  
-- **한이음 ICT 멘토링 프로젝트 참가**  
-🔗 [데모 영상 보기](https://youtu.be/a1mq1rUVoYg)
+### 📌 [PlanDing](https://youtu.be/a1mq1rUVoYg)
+> **개인/그룹 일정 통합 관리 실시간 플랫폼**
+- **Link**: [데모 영상](https://youtu.be/a1mq1rUVoYg)
 
----
+### 📌 [MoreView](https://youtu.be/vImnLD8X1BE)
+> **2D/3D 요소 조합 인터랙티브 프레젠테이션 툴**
+- **Link**: [데모 영상](https://youtu.be/vImnLD8X1BE)
 
-### 📌 MoreView  
-> **2D/3D 요소를 조합한 인터랙티브 프레젠테이션 툴**  
-- **한이음 ICT 멘토링 프로젝트 참가**  
-🔗 [데모 영상 보기](https://youtu.be/vImnLD8X1BE)
-
----
-
-### 📌 MapleLink *(개발 및 운영 중)*  
-> **메이플스토리 길드를 관리하고 탐색할 수 있는 통합 플랫폼**
-- **메이플 파트너스 신청 준비 중**  
-🔗 [서비스 접속](https://maplelink.co.kr)
-
----
-
-## 📬 Contact
-
-- 📧 Email: play3step@naver.com  
-- 📞 Phone: 010-3180-7113  
-- 🔗 GitHub: [github.com/play3step](https://github.com/play3step)  
-- 📝 Blog (Velog): [velog.io/@play3step](https://velog.io/@play3step/posts)
+<br/>
