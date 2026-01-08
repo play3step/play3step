@@ -46,7 +46,7 @@
 > **macOS 컨셉의 인터랙티브 개인 포트폴리오**
 - **Link**: [서비스 접속](https://www.deemo.dev/)
 
-### 📌 [ZoopZoop](https://youtu.be/a1mq1rUVoYg)
+### 📌 [ZoopZoop](https://youtu.be/8ofrx60MaL4)
 > **수집부터 공유까지, 갱각을 이어주는 플랫폼**
 - **Link**: [데모 영상](https://youtu.be/8ofrx60MaL4)
 
